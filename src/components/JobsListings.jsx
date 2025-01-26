@@ -1,3 +1,4 @@
+import jobs from '../jobs.json'
 import React from 'react'
 
 const JobsListings = () => {
@@ -13,7 +14,7 @@ const JobsListings = () => {
             <div className="p-4">
               <div className="mb-6">
                 <div className="text-gray-600 my-2">Full-Time</div>
-                <h3 className="text-xl font-bold">Senior React Developer</h3>
+                <h3 className="text-xl font-bold">Animator Designer</h3>
               </div>
 
               <div className="mb-5">
